@@ -1,2 +1,3 @@
 тестовое задание
-написать чат
+
+javascript + typescript
